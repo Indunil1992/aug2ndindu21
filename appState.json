@@ -11,8 +11,8 @@
         "isRemovable": true,
         "filePath": "Aug2ndindu21.js",
         "cursor": {
-          "lineNumber": 2,
-          "column": 22
+          "lineNumber": 3,
+          "column": 32
         },
         "config": {
           "runtime": "nodejs14.x",
@@ -60,7 +60,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1627883056449
+    "lastSave": 1627883271788
   },
   "VCS_STATE": {
     "provider": "GitHub",
